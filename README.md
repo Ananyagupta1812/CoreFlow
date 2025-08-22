@@ -11,9 +11,6 @@
 ![Core Flow Dashboard](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png) ```
 
 
-```markdown
-![Core Flow Screenshot](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png)
-
 ## 📖 Introduction
 
 Traditional budgeting apps are often static and uninspiring. They tell you *what* you spent, but they fail to show you the *why* behind your habits or the *future consequences* of your choices. 
