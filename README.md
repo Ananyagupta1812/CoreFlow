@@ -8,8 +8,12 @@
 
 ---
 
-![Core Flow Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*Replace the URL above with a direct link to a screenshot of your app. You can upload an image to a site like [Imgur](https://imgur.com/upload) to get a link.*
+![Core Flow Screenshot](https://i.imgur.com/your-screenshot-url.png) ```
+
+**Replace the placeholder URL** with the real URL you just copied from GitHub. It should look like this:
+
+```markdown
+![Core Flow Screenshot](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png)
 
 ## 📖 Introduction
 
