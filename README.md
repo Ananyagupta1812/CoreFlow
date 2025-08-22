@@ -8,7 +8,7 @@
 
 ---
 
-![Core Flow Screenshot](https://i.imgur.com/your-screenshot-url.png) ```
+![Core Flow Dashboard](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png) ```
 
 **Replace the placeholder URL** with the real URL you just copied from GitHub. It should look like this:
 
