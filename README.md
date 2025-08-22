@@ -8,7 +8,7 @@
 
 ---
 
-### [**Core Flow Dashboard**](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png)
+### ![**Core Flow Dashboard**](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png)
 
 
 ## 📖 Introduction
