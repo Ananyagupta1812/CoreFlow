@@ -10,7 +10,6 @@
 
 ![Core Flow Dashboard](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png) ```
 
-**Replace the placeholder URL** with the real URL you just copied from GitHub. It should look like this:
 
 ```markdown
 ![Core Flow Screenshot](https://github.com/Ananyagupta1812/CoreFlow/blob/main/assests/dashboard.png)
